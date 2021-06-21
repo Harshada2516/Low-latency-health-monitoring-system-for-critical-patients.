@@ -1,0 +1,3 @@
+[submodule "AWS-nodejs"]
+	path = AWS-nodejs
+	url = https://github.com/Rish-26/AWS-nodejs.git
